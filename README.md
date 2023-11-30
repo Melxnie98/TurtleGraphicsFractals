@@ -1,2 +1,2 @@
 # TurtleGraphisFractals
-Python - turtle graphics fractal interface
+Python - turtle graphics fractal drawings with interface
